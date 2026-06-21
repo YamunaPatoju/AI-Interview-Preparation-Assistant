@@ -1,0 +1,22 @@
+SKILLS = [
+    "Python",
+    "Java",
+    "C++",
+    "SQL",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "PyTorch",
+    "Pandas",
+    "NumPy",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "OpenCV",
+    "YOLOv8",
+    "DeepFace",
+    "Git",
+    "GitHub",
+    "Scikit-learn",
+    "SQLite3"
+]
